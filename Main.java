@@ -35,7 +35,7 @@ public class Main {
     }
 
     public static void tHistory(){
-        System.out.println("==================================================================================");
+        System.out.println("======================================++++++++++============================================");
         System.out.println("You have no previous transactions.");
         displayMenu();
     }
